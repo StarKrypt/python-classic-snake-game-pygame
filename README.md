@@ -15,5 +15,5 @@ pip install pygame
 ```
 
 [My social media profiles](https://beacons.ai/StarKrypt)
-[Donate Bitcoin Address: bc1qdvuvlwv8cnsp2dlhksqhgewpzl0sasw2hj2qa5](https://bitcoin:bc1qdvuvlwv8cnsp2dlhksqhgewpzl0sasw2hj2qa5)
+Bitcoin: bc1qdvuvlwv8cnsp2dlhksqhgewpzl0sasw2hj2qa5
 Thank You.
