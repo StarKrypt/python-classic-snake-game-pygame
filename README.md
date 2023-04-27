@@ -13,3 +13,5 @@ pip install tkinter
 ```
 pip install pygame
 ```
+
+[My social media profiles](https://beacons.ai/StarKrypt)
